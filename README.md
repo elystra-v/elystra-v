@@ -2,6 +2,8 @@
 
 Founder and builder of **Kinesema Labs**—an early-stage accessibility technology venture developing Deaf-first, auditable language systems for future Singapore Sign Language (SgSL) interfaces.
 
+**Technical profile:** [elystra-v.github.io](https://elystra-v.github.io/)
+
 ## Kinesema Labs
 
 Kinesema Labs is building a responsible path from English sentence analysis toward future SgSL tooling. The work separates parser evidence, linguistic review, sign planning, and motion so each stage can be inspected and improved without overstating what the technology can do.
