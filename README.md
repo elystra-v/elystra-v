@@ -1,22 +1,32 @@
 # Hi, I’m Wei Xian 👋
 
-I’m building **Kinesema**—Deaf-first, auditable language technology designed for transparent research and community review.
+Founder and builder of **Kinesema Labs**—an early-stage accessibility technology venture developing Deaf-first, auditable language systems for future Singapore Sign Language (SgSL) interfaces.
 
-## About Kinesema
+## Kinesema Labs
 
-Kinesema explores how English sentence structure can be analyzed transparently as one carefully reviewed input toward future Singapore Sign Language (SgSL) tooling.
+Kinesema Labs is building a responsible path from English sentence analysis toward future SgSL tooling. The work separates parser evidence, linguistic review, sign planning, and motion so each stage can be inspected and improved without overstating what the technology can do.
 
-The project brings together:
+The venture brings together:
 
 - Accessible language interfaces
 - White-box grammar analysis
 - Reviewable parser evidence
 - Privacy-conscious system boundaries
-- Foundations for future sign planning and motion
+- Carefully governed foundations for future sign planning and motion
 
-Kinesema is in active prototype development. Its outputs are candidates for review—not final linguistic authority.
+## What I do
 
-## How I work
+I work across product direction, language-system architecture, accessible interface design, documentation, privacy boundaries, and implementation.
+
+My current focus is Kinesema’s traceable language pipeline: limited English surface analysis, clearly labelled parser-owned gloss candidates, and provenance that can be inspected without exposing private system internals.
+
+## Product stage
+
+Kinesema is an early-stage venture in controlled prototype development. Current outputs are candidates for review—not final linguistic authority.
+
+Prototype language decisions remain `review_required`. Motion generation is not currently available and will not be implied by parser output.
+
+## How I build
 
 - Deaf-first accessibility and multiple access paths
 - Auditable logic over opaque claims
@@ -25,27 +35,11 @@ Kinesema is in active prototype development. Its outputs are candidates for revi
 - Privacy and consent as engineering boundaries
 - Community review before claims of linguistic correctness
 
-## Current focus
+## Public work
 
-I’m currently developing Kinesema’s traceable language pipeline: limited English surface analysis, clearly labelled parser-owned gloss candidates, and provenance that can be inspected without exposing private system internals.
+Most active Kinesema development remains private while its product, accessibility, privacy, security, and linguistic-review boundaries mature.
 
-Prototype language decisions remain `review_required`. Motion generation is not currently available and will not be implied by parser output.
-
-## Building in the open—carefully
-
-Most active implementation remains private while its accessibility, privacy, security, and review boundaries mature.
-
-Selected work will be shared here only when it has been deliberately reviewed and approved for public release.
-
-## What’s next
-
-A fuller Kinesema portfolio will live on GitHub Pages, with:
-
-- The story and purpose of Kinesema
-- Selected project case studies
-- Architecture explained in accessible language
-- Development principles and build notes
-- Clear collaboration and contact pathways
+Selected technical work and professional case studies will be published only when they have been reviewed and approved for public release.
 
 ---
 
